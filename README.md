@@ -1,2 +1,8 @@
 # Space-Cruiser
-A flappy bird style game made using unity.
+A Flappy Bird-style game made in Unity.
+
+### Work in Progress
+
+### Updates
+* Created the assets
+* Added physics to the spaceship's movements
